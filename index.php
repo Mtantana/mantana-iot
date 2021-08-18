@@ -1,11 +1,11 @@
-<body onload="JavaScript:timedRefresh(15000);">
-<body style="background-color:powderblue;">
 <head>
 <style>
 p {
   color: red;
   text-align: center;
 } 
+  <body onload="JavaScript:timedRefresh(15000);">
+  <body style="background-color:powderblue;">
 </style>
 </head>
  <p><h1>Mantana Laaiadkan  62107594 </h1></p>
