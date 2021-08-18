@@ -1,13 +1,5 @@
-<head>
-<style>
-p {
-  color: red;
-  text-align: center;
-} 
-  <body onload="JavaScript:timedRefresh(15000);">
-  <body style="background-color:powderblue;">
-</style>
-</head>
+<body onload="JavaScript:timedRefresh(15000);">
+ <body style="background-color:powderblue;">
  <p><h1>Mantana Laaiadkan  62107594 </h1></p>
 
 <iframe src="https://thingspeak.com/channels/1458409/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15" width="450" height="260"></iframe>
