@@ -124,7 +124,7 @@
 
         $(()=>{
           
-          let url = " https://api.thingspeak.com/channels/1479261/feeds.json?results=240";
+          let url = " GET https://api.thingspeak.com/channels/1502769/feeds.json?results=2";
 
           $.getJSON(url)
             .done(function(data){
