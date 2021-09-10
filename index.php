@@ -18,14 +18,14 @@
     <div class="container">
         <div class="row">
             <div class="col-4">
-              <iframe width = "400" height="200" src="https://thingspeak.com/channels/1502769/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15" frameborder="0"></iframe>
+              <iframe width = "600" height="400" src="https://thingspeak.com/channels/1502769/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15" frameborder="0"></iframe>
               </div>
             <div class="class col-4">
-                <canvas id="hhum" width="400" height="200"></canvas>
+                
             </div>
 
             <div class="class col-4">
-                <canvas id="llight" width="400" height="200"></canvas>
+              <iframe width = "600" height="400" src="https://thingspeak.com/channels/1502769/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15" frameborder="0"></iframe>
             </div>
         </div>
 
