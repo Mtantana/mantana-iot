@@ -28,6 +28,14 @@
               <iframe width = "600" height="400" src="https://thingspeak.com/channels/1502769/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15" frameborder="0"></iframe>
             </div>
         </div>
+        <div class="class col-4">
+              <iframe width = "600" height="400" src="https://thingspeak.com/channels/1502769/charts/3?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15" frameborder="0"></iframe>
+            </div>
+        </div>
+        <div class="class col-4">
+              <iframe width = "600" height="400" src="https://thingspeak.com/channels/1502769/charts/4?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15" frameborder="0"></iframe>
+            </div>
+        </div>
 
         <div class="class row">
             <div class="class col-3">
