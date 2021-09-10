@@ -7,9 +7,6 @@
     
     <title>Show Graph</title>
     
-    <script src="https://code.jquery.com/jquery-2.2.4.js" integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI=" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.5.0/dist/chart.min.js"></script>
   </head>
 
   <body>
@@ -21,8 +18,8 @@
     <div class="container">
         <div class="row">
             <div class="col-4">
-                <canvas id="ttemp" width="400" height="200"></canvas>
-            </div>
+              <iframe width = "400" height="200" src="https://thingspeak.com/channels/1502769/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15" frameborder="0"></iframe>
+              </div>
             <div class="class col-4">
                 <canvas id="hhum" width="400" height="200"></canvas>
             </div>
